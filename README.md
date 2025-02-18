@@ -1,13 +1,28 @@
 # Pipe Network Node Docker
 
 Docker configuration for running a Pipe Network Node.
+As we prepare for the testnet launch, we're introducing a new node architecture. 
+DevNet 2 serves as an alpha testnet, and after maintaining stability for 40 days, the testnet will be launched.
 
-## Prerequisites
+## System Requirements 
 
 - Docker and Docker Compose installed
 - At least 4GB RAM
 - At least 100GB free disk space
 - Linux operating system
+
+## Download Putty Softer Or Termius 
+ * https://www.putty.org/ * 
+ * https://termius.com/ *
+
+
+## Now We need a VPS, you can get from PQ hosting or Contabo
+* https://contabo.com/en/vps/ * 
+* https://pq.hosting/en/ *
+
+
+## Now Open Your Termius Or Putty Softer And Log in Your Account
+
 
 ## Quick Start
 
